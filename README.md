@@ -1,7 +1,7 @@
 # DS4002-CS2-Movie-Genre
 
 ## DATA section
-· **combined_data.csv**:  
+ **combined_data.csv**:  
 | Variable Name | Description |
 |---------------|-------------|
 | Year | Specific year |
