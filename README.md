@@ -15,3 +15,5 @@
 ## REFERENCES section
 [1]“What Is the Probability of a Recession? The Message from Yield Spreads,” www.stlouisfed.org. https://www.stlouisfed.org/on-the-economy/2023/sep/what-probability-recession-message-yield-spreads#:~:text=10%2DYear%2DThree%2DMonth%20Yield%20Spread (accessed Sep. 17, 2023).  
 [2]Board of Governors of the Federal Reserve System (US), “10-Year Treasury Constant Maturity Rate,” FRED, Federal Reserve Bank of St. Louis, Jan. 02, 1962. https://fred.stlouisfed.org/series/DGS10#0  
+[3]“Build software better, together,” GitHub. https://github.com/JianingC0913/DS4002-Project1/edit/main/README.md (accessed Dec. 11, 2023).
+‌
